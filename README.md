@@ -1,6 +1,6 @@
 # Movies passion
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/ER5wyrhDTkU
 #### Description:
 A Movie search App, mobile responsive, that shows popular movies and single movie details, like overview, release date and trailers. 
 Fetching data using Axios from themoviedb.org and youtube.com APIs.
